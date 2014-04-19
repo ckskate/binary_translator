@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Binary Translator",
-	"version": "1.0",
+	"version": "2.0",
 	"description": "Mess with peoples' minds on public computers!",
 	"icons": { "16": "icon16.png",
 	           "48": "icon48.png",
